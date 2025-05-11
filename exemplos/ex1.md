@@ -6,8 +6,8 @@ A loja online vende produtos eletrônicos. Cada produto possui um código, um no
 
 Aqui está o diagrama ER que representa a modelagem desse cenário:
 
-![Diagrama ER](exemplos/imagens/Loja.jpg)
+![Diagrama ER](imagens/Loja.jpg)
 
 ## Comandos SQL
 
-Aqui estão os comandos SQL correspondentes para criar as tabelas e associar os dados. Você pode visualizar os comandos SQL no arquivo [comandos_sql.sql](exemplos/comandos_sql.sql/Loja).
+Aqui estão os comandos SQL correspondentes para criar as tabelas e associar os dados. Você pode visualizar os comandos SQL no arquivo [comandos_sql.sql](comandos_sql.sql/Loja).
