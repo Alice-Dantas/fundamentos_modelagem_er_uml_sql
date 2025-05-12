@@ -10,4 +10,4 @@ Aqui está o diagrama ER que representa a modelagem desse cenário:
 
 ## Comandos SQL
 
-Aqui estão os comandos SQL correspondentes para criar as tabelas e associar os dados. Você pode visualizar os comandos SQL no arquivo [comandos_sql.sql](comandos_sql.sql/EmpresaSoftware).
+Aqui estão os comandos SQL correspondentes para criar as tabelas e associar os dados. Você pode visualizar os comandos SQL no arquivo [comandos_sql.sql](comandos_sql.sql/EmpresaSoftware.sql).
