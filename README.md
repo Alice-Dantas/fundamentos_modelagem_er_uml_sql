@@ -1,4 +1,4 @@
-# modelagem_sql_resumo_exemplos
+# fundamentos_modelagem_sql
 Este repositório contém um **resumo** sobre modelagem SQL, seguido de **exemplos de cenários** de problemas, com seus respectivos **diagramas ER** (Entidade-Relacionamento) e **comandos SQL** para implementação.
 
 ## Estrutura do Repositório
