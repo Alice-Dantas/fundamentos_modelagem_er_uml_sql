@@ -1,5 +1,5 @@
 # fundamentos_modelagem_sql
-Este repositório contém um **resumo** sobre modelagem SQL, seguido de **exemplos de cenários** de problemas, com seus respectivos **diagramas ER** (Entidade-Relacionamento) e **comandos SQL** para implementação.
+Este repositório contém um **resumo** sobre modelagem SQL, seguido de **exemplos de cenários** de problemas, com seus respectivos **diagramas ER** (Entidade-Relacionamento) e UML, e **comandos SQL** para implementação.
 
 ## Estrutura do Repositório
 - **docs/**: Diretório contendo um arquivo pdf com um resumo teórico sobre os principais conceitos de modelagem de banco de dados.
