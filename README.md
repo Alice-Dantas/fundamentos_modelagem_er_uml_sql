@@ -3,8 +3,8 @@ Este repositório contém **resumos** sobre modelagem SQL e UML, seguido de **ex
 
 ## Estrutura do Repositório
 - **docs/**: Diretório contendo arquivos PDF com resumos teóricos:
-  - **modelagem_dados.pdf**: Conceitos principais de modelagem de banco de dados: modelo conceitual, lógico e físico; modelagem de dados com UML; dados como apoio a tomadas de decisões.
-  - **modelagem_uml.pdf**: Linguagem UML: diagramas estruturais e diagramas comportamentais.
+  - [modelagem_dados.pdf](docs/modelagem_dados.pdf): Conceitos principais de modelagem de banco de dados: modelo conceitual, lógico e físico; modelagem de dados com UML; dados como apoio a tomadas de decisões.
+  - [modelagem_uml.pdf](docs/modelagem_uml.pdf): Linguagem UML: diagramas estruturais e diagramas comportamentais.
     
 - **exemplos/**: Diretório contendo cenários de problemas de modelagem SQL, diagramas ER e os respectivos comandos SQL.
   
